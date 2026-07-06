@@ -1,4 +1,4 @@
-# Ramen Website
+# （サイト名） Website
 
 > Original WordPress Landing Page  
 > Designed & Developed by TakaCare Studio
@@ -17,14 +17,7 @@ Role: Planning / Design/ Development
 
 Status: Completed
 
----
-
-## Project Status
-
-✅ Completed
-
-Last Updated  
-2026-07-06
+Last Updated: 2026-07-06
 
 ---
 
